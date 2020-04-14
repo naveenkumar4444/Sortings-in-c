@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void bubble_sort();
+void bubble_sort(int);
 
 int n;
 
